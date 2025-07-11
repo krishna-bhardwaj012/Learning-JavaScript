@@ -12,7 +12,6 @@ console.log(3 +3 )// code redability should be high
 // undefined => varlue not defined
 //symbol => unique value
 //object 
-console.log(typeof "Sachin";
-    //undefined ka type kya hai- undefined ka type bhi undefined hai
-    // null ka type kya hai - null ka type object hai (this is a bug in JS, but it is how it is handled in JS.)
-)
+console.log(typeof "Sachin");
+//undefined ka type kya hai- undefined ka type bhi undefined hai
+// null ka type kya hai - null ka type object hai (this is a bug in JS, but it is how it is handled in JS.)
